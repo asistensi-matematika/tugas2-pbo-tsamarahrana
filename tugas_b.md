@@ -1,7 +1,7 @@
 # Tugas 2 ASISTENSI PBO - Jumat, 27 September 2019
-NAMA: `isi nama disini`
+NAMA: Tsamarah Rana Nugraha
 
-NRP: `isi nrp disini`
+NRP: 06111840000103
 
 
 ## DESKRIPSI SOAL
